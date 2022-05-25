@@ -1,10 +1,8 @@
 from binance.client import Client
 from datetime import datetime
-import json
 import pandas as pd
 #%matplotlib inline
 import matplotlib.pyplot as plt
-import numpy as np
 import os.path
 import math
 import statistics
